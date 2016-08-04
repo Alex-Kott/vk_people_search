@@ -52,6 +52,10 @@ body {
         margin:5px;
     }
 
+    #search-result a{
+        display:block;
+    }
+
     .person{
         position:relative;
         width: 30%;
@@ -61,6 +65,11 @@ body {
 
     .person p{
         text-align:center;
+    }
+
+    .person img{
+        min-width:200px;
+        min-height:200px;
     }
 
 
